@@ -1,0 +1,44 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="675" fill="#0f172a"/>
+  <!-- Top bar -->
+  <rect width="1200" height="48" fill="#1e293b"/>
+  <circle cx="24" cy="24" r="6" fill="#ef4444"/>
+  <circle cx="44" cy="24" r="6" fill="#eab308"/>
+  <circle cx="64" cy="24" r="6" fill="#22c55e"/>
+  <!-- Navigation -->
+  <rect x="40" y="68" width="160" height="28" rx="6" fill="#334155"/>
+  <rect x="900" y="72" width="60" height="20" rx="4" fill="#334155" opacity="0.6"/>
+  <rect x="980" y="72" width="60" height="20" rx="4" fill="#334155" opacity="0.6"/>
+  <rect x="1080" y="68" width="80" height="28" rx="6" fill="#334155" stroke="#6366f1" stroke-width="1"/>
+  <!-- Hero banner -->
+  <rect x="40" y="120" width="1120" height="200" rx="16" fill="url(#hero-grad)" opacity="0.3"/>
+  <defs><linearGradient id="hero-grad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6366f1"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs>
+  <rect x="80" y="180" width="300" height="36" rx="6" fill="#334155" opacity="0.6"/>
+  <rect x="80" y="228" width="220" height="20" rx="4" fill="#334155" opacity="0.4"/>
+  <rect x="80" y="260" width="120" height="36" rx="8" fill="#6366f1"/>
+  <!-- Product grid -->
+  <rect x="40" y="350" width="260" height="290" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="56" y="366" width="228" height="160" rx="8" fill="#334155" opacity="0.4"/>
+  <rect x="56" y="542" width="140" height="16" rx="3" fill="#334155"/>
+  <rect x="56" y="566" width="80" height="20" rx="4" fill="#6366f1" opacity="0.4"/>
+  <rect x="56" y="600" width="100" height="28" rx="6" fill="#6366f1"/>
+
+  <rect x="330" y="350" width="260" height="290" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="346" y="366" width="228" height="160" rx="8" fill="#334155" opacity="0.4"/>
+  <rect x="346" y="542" width="140" height="16" rx="3" fill="#334155"/>
+  <rect x="346" y="566" width="80" height="20" rx="4" fill="#6366f1" opacity="0.4"/>
+  <rect x="346" y="600" width="100" height="28" rx="6" fill="#6366f1"/>
+
+  <rect x="620" y="350" width="260" height="290" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="636" y="366" width="228" height="160" rx="8" fill="#334155" opacity="0.4"/>
+  <rect x="636" y="542" width="140" height="16" rx="3" fill="#334155"/>
+  <rect x="636" y="566" width="80" height="20" rx="4" fill="#ef4444" opacity="0.4"/>
+  <rect x="636" y="600" width="100" height="28" rx="6" fill="#334155" opacity="0.5"/>
+  <text x="660" y="618" fill="#94a3b8" font-family="system-ui" font-size="11" font-weight="500">SOLD</text>
+
+  <rect x="910" y="350" width="260" height="290" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <rect x="926" y="366" width="228" height="160" rx="8" fill="#334155" opacity="0.4"/>
+  <rect x="926" y="542" width="140" height="16" rx="3" fill="#334155"/>
+  <rect x="926" y="566" width="80" height="20" rx="4" fill="#6366f1" opacity="0.4"/>
+  <rect x="926" y="600" width="100" height="28" rx="6" fill="#6366f1"/>
+</svg>

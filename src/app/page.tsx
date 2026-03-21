@@ -1,7 +1,19 @@
+import Hero from "@/components/Hero";
+import About from "@/components/About";
+import Skills from "@/components/Skills";
+import FeaturedProjects from "@/components/FeaturedProjects";
+import AdditionalProjects from "@/components/AdditionalProjects";
+import Contact from "@/components/Contact";
+
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gray-950 text-white flex items-center justify-center">
-      <h1 className="text-4xl font-bold">Portfolio Coming Soon</h1>
+    <main>
+      <Hero />
+      <About />
+      <Skills />
+      <FeaturedProjects />
+      <AdditionalProjects />
+      <Contact />
     </main>
   );
 }
