@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget --version)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --no-turbopack)",
+      "Bash(cd /tmp)",
+      "Bash(npx create-next-app@latest developer-portfolio --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --no-turbopack)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(cd:*)",
+      "Bash(timeout 30 npm run dev)"
+    ]
+  }
+}
