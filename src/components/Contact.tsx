@@ -36,7 +36,7 @@ export default function Contact() {
 
             <div className="space-y-4">
               <a
-                href="mailto:contact@michael.dev"
+                href="mailto:michaeljoniferecmj@gmail.com"
                 className="flex items-center gap-3 text-surface-300 hover:text-white transition-colors group"
               >
                 <div className="w-10 h-10 bg-surface-800/80 rounded-lg flex items-center justify-center group-hover:bg-primary-600/20 transition-colors">
@@ -54,7 +54,7 @@ export default function Contact() {
                     />
                   </svg>
                 </div>
-                <span className="text-sm">contact@michael.dev</span>
+                <span className="text-sm">michaeljoniferecmj@gmail.com</span>
               </a>
 
               <a

@@ -10,6 +10,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://michaeljoniferecmj.vercel.app"),
   title: "Michael | Full-Stack Developer",
   description:
     "Full-stack developer portfolio showcasing modern web applications, AI-assisted builds, and automation solutions.",
@@ -18,6 +19,12 @@ export const metadata: Metadata = {
     description:
       "Full-stack developer portfolio showcasing modern web applications, AI-assisted builds, and automation solutions.",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Michael | Full-Stack Developer",
+    description:
+      "Full-stack developer portfolio showcasing modern web applications, AI-assisted builds, and automation solutions.",
   },
 };
 
